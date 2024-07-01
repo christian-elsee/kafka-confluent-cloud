@@ -3,3 +3,5 @@
 !.gitignore
 !README.md
 !Makefile
+!secrets
+!secrets/api-key.txt.gpg
